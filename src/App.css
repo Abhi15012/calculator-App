@@ -1,0 +1,21 @@
+.cal-button{
+  overflow: hidden;
+margin-top : 30px;
+display: flex;
+justify-content:space-evenly;
+flex-wrap: wrap;
+width: 200px;
+align-items: flex-start;
+
+
+}
+#calci-b{
+font-size: 20px;
+justify-content: center;
+width: 45px;
+height: 45px;
+margin-left: 10px;
+font-weight: bold;
+margin-top: 10px;
+border-radius: 6px
+}
